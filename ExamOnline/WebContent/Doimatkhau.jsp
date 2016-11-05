@@ -46,7 +46,7 @@
                     <div class="m-t-10 p-20">
                         <div class="row">
                             <div class="col-xs-12 text-xs-left">
-                                <h5 class="text-muted text-uppercase m-b-0 m-t-0" style="border-bottom: 1px solid #999">Change Password</h5>
+                                <h5 class="text-muted text-uppercase m-b-0 m-t-0" style="border-bottom: 1px solid #999">Changed password</h5>
                             </div>
                         </div>
                         <form class="m-t-20" action="#">
